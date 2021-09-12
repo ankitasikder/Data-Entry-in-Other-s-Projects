@@ -18,16 +18,16 @@
 
 For this website I have uploaded all the documents and other study materials provided by UEMK throughout Btech 2019-2023 course in PDFMALL folder in Biswarup's google drive linked with his email id bbiswa471@gmail.com. Then I have kept all the view links of those documents in notepad for adding them to the website. Like this I have handled those documents, uploaded them and collected all the links of google drive and given them to Biswarup accordingly.
 
-**2. Mocktail Recipe Finder App 👉** <a>App Download Link<href="https://drive.google.com/file/d/1mnxmoRmp800uXPdfTmarSgwEFFAq7IdS/view"></a>
+**2. Mocktail Recipe Finder App 👉** <a href="https://drive.google.com/file/d/1mnxmoRmp800uXPdfTmarSgwEFFAq7IdS/view" download>Click here to download</a>
   
 In this app I have collected all resources for 85+ mocktails and written them in notepad++. Here I have collected resipies, ingridients, images of mocktails and gave them to Biswarup for making the app.
   
-**3. Cool Cab App 👉** <a>App Download Link<href="https://drive.google.com/file/d/1WEAsOV1_YwXQGMntwk9agXRowlkvIUWJ/view"></a>
+**3. Cool Cab App 👉** <a href="https://drive.google.com/file/d/1WEAsOV1_YwXQGMntwk9agXRowlkvIUWJ/view" download>Click here to download</a>
   
 For this app I have collected all the resources and data for 160 cars and 26 car companies. Then I have written them in notepad++. Then I have given this for making the app.
   
-**4. Daily Deals App 👉** <a>App Download Link<href="https://drive.google.com/file/d/1rGYj1wNPlqjoX5o32Buto57JfK44IONS/view"></a>
+**4. Daily Deals App 👉** <a href="https://drive.google.com/file/d/1rGYj1wNPlqjoX5o32Buto57JfK44IONS/view" download>Click here to download</a>
   
-  **Link of API 👉 https://daily-deals-server-biswa2210.herokuapp.com/api/v1/**
+**Link of API 👉 https://daily-deals-server-biswa2210.herokuapp.com/api/v1/**
   
 For this app Biswarup gave access of his Firebase and MongoDB Account. He provided me the link of the API server he made. I have used postman and using GET, POST, PUT, DELETE etc reuests I have added 24 categories and 156 products in his Daily Deals e-commerce app. Using API I have uploaded data in his MongoDb and Firebase account.
